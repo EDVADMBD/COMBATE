@@ -46,7 +46,9 @@ Infraestrutura: Implementar soluções de armazenamento seguras.
 Segmentação: Agrupar os infratores para estratégias personalizadas.
 Execução de Ações: Aplicar as medidas de repressão e monitoramento.
 Análise Contínua: Revisar e ajustar o plano conforme novas informações.
+
 Contribuições
+=====================================================================================================================================================================
 Se você quiser contribuir para este projeto, basta criar um pull request com suas alterações. Estamos ansiosos para ver como você pode melhorar ainda mais esse plano de combate à pirataria! Sua contribuição pode incluir melhorias nas técnicas de monitoramento, sugestões de novas tecnologias de proteção ou novas ideias para campanhas de conscientização.
 
 
