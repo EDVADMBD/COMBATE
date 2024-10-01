@@ -40,7 +40,20 @@ Este plano pode ser usado por equipes de TI, Segurança e Jurídico como guia pr
 
 Passos do Projeto
 =======================================================================================================================================================================
-Coleta de Dados: Monitorar e capturar dados de fontes piratas.
+Coleta de Dados:
+=
+Foi utilizado o arquivo Tabela_PACP.csv, contendo informações sobre o Plano de Ação de Combate à Pirataria.
+Os dados foram extraídos e analisados com o auxílio do notebook combate.ipynb, que realizou a pré-processamento, limpeza e organização dos dados.
+
+Fontes de Pesquisa:
+=
+As informações utilizadas para contextualizar o projeto e validar os dados foram obtidas através do site oficial da Anatel, mais especificamente na seção dedicada ao Plano de Ação de Combate à Pirataria, disponível no link: Plano de Ação de Combate à Pirataria.
+Análise de Dados:
+
+A análise dos dados;
+=
+Focou em entender os impactos das medidas de combate à pirataria, visualizando os resultados por meio de gráficos e relatórios gerados no arquivo combate.ipynb.
+
 Limpeza e Preparação: Organizar e garantir a qualidade dos dados.
 Infraestrutura: Implementar soluções de armazenamento seguras.
 Segmentação: Agrupar os infratores para estratégias personalizadas.
