@@ -66,4 +66,4 @@ Se você quiser contribuir para este projeto, basta criar um pull request com su
 
 
 
-Veja o Código [Link para o código ou documentação técnica]
+Veja o Código https://github.com/EDVADMBD/COMBATE/blob/main/combate.ipynb
