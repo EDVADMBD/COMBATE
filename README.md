@@ -1,6 +1,6 @@
 # COMBATE A PIRATARIA ![image](https://github.com/user-attachments/assets/0d1f195f-1186-488a-80ae-43aaf026d5b0)
 
-PROJETOS APRENDIZADO - Plano de ação visa combater a pirataria digital em diversas frentes
+PROJETOS APRENDIZADO EBAC - Plano de ação visa combater a pirataria digital em diversas frentes
 
 Resumo
 =========================================================================================================================================================================
