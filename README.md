@@ -52,7 +52,7 @@ Análise de Dados:
 
 A análise dos dados:
 =
-Focou em entender os impactos das medidas de combate à pirataria, visualizando os resultados por meio de gráficos e relatórios gerados no arquivo combate.ipynb.
+Foco em entender os impactos das medidas de combate à pirataria, visualizando os resultados por meio de gráficos e relatórios gerados no arquivo combate.ipynb.
 
 Limpeza e Preparação: Organizar e garantir a qualidade dos dados.
 Infraestrutura: Implementar soluções de armazenamento seguras.
